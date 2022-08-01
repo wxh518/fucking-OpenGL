@@ -1,0 +1,5 @@
+F:/Cherno_OpenGL/MyOpenGL/MyOpenGL/src/vendor/glm/out/build/x64-Debug/CMakeFiles/install/local.dir
+F:/Cherno_OpenGL/MyOpenGL/MyOpenGL/src/vendor/glm/out/build/x64-Debug/CMakeFiles/install.dir
+F:/Cherno_OpenGL/MyOpenGL/MyOpenGL/src/vendor/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/Cherno_OpenGL/MyOpenGL/MyOpenGL/src/vendor/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+F:/Cherno_OpenGL/MyOpenGL/MyOpenGL/src/vendor/glm/out/build/x64-Debug/CMakeFiles/list_install_components.dir
